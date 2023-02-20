@@ -1,11 +1,22 @@
 {
   "name": "software_engineeringii",
   "version": "1.0.0",
-  "description": "mern shopping cart app",
+  "description": "MERN stack application",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node backend/server"
   },
-  "author": "",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevethekey/MERN-ProShop_Application.git"
+  },
+  "author": "William Steven Matiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevethekey/MERN-ProShop_Application/issues"
+  },
+  "homepage": "https://github.com/stevethekey/MERN-ProShop_Application#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }

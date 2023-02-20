@@ -43,7 +43,7 @@ const products = [
     name: 'Sony Playstation 4 Pro White Version',
     image: '/images/playstation.jpg',
     description:
-      'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music, this is the product you\'\ll love.',
+      'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music, this is the product you will love.',
     brand: 'Sony',
     category: 'Electronics',
     price: 399.99,
